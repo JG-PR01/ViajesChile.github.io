@@ -1,0 +1,25 @@
+.bg-black {
+	background-color: black;
+}
+* {
+	color: white;
+}
+.carousel-item img {
+	max-height: 100vh;
+}
+.card {
+	width: 17.9rem;
+}
+.card img {
+	height: 185px;
+}
+.contact-form {
+	width: 90%;
+	height: 600px;
+}
+footer h2 {
+	margin: 0;
+}
+.card {
+	margin: 0 auto;
+}
